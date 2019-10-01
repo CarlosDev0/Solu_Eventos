@@ -1,0 +1,6 @@
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Dominio\bin\Debug\Negocios.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Dominio\bin\Debug\Negocios.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Dominio\obj\Debug\Lafrancol.Solu_Eventos.Dominio.csprojAssemblyReference.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Dominio\obj\Debug\Lafrancol.Solu_Eventos.Dominio.csproj.CoreCompileInputs.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Dominio\obj\Debug\Negocios.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Dominio\obj\Debug\Negocios.pdb

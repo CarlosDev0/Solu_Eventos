@@ -1,0 +1,6 @@
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Controlador\bin\Debug\Lafrancol.Solu_Eventos.Controlador.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Controlador\bin\Debug\Lafrancol.Solu_Eventos.Controlador.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Controlador\obj\Debug\Lafrancol.Solu_Eventos.Controlador.csprojAssemblyReference.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Controlador\obj\Debug\Lafrancol.Solu_Eventos.Controlador.csproj.CoreCompileInputs.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Controlador\obj\Debug\Lafrancol.Solu_Eventos.Controlador.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\Lafrancol.Solu_Eventos.Controlador\obj\Debug\Lafrancol.Solu_Eventos.Controlador.pdb
